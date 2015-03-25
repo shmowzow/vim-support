@@ -45,7 +45,7 @@ on buffer read or creation:
 
 Add filetype detection to filetype.vim:
 
-`au BufRead,BufNewFile *.`finn setfiletype shmowzow`
+`au BufRead,BufNewFile *.finn setfiletype shmowzow`
 
 ## Commands/Syntax Groups
 
