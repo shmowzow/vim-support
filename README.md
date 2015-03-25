@@ -59,4 +59,12 @@ Command     		      | Syntax Group
 
 > *Remember*: The `c:` command is not actually used for comments if you intend to build your `.finn` program - since as
 said before Shmowzow doesn't support commenting yet -, it just makes the things *more beautiful*.
-  
+
+##License
+
+Shmowzow's syntax highlighting support is distributed under the MIT License, available in this repository. All 
+contributions are assumed to be also licensed under the MIT License.
+
+> Adventure Time is an American animated television series created by Pendleton Ward for Cartoon Network. Shmowzow Language
+*does not* have any rights over anything related to the series; images, logos, and everything related to the show have All
+Rights Reserved to Cartoon Network, A Time Warner Company.
