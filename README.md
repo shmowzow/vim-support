@@ -47,3 +47,16 @@ Add filetype detection to filetype.vim:
 
 `au BufRead,BufNewFile *.`finn setfiletype shmowzow`
 
+## Commands/Syntax Groups
+
+Command     		      | Syntax Group																																														
+---						  | ---  																																															
+`Shmowzow` / `shmowzoW`   | `Keyword`  																														   
+`SHMOWZOW` / `shmowzow`   | `Number`																															
+`ShMoWzOw` / `sHmOwZoW`	  | `Identifier`																																			 
+`ShmoWzow` / `sHMOwZOW`   | `Function`																																		
+`c:` 					  | `Comment`																																							
+
+> *Remember*: The `c:` command is not actually used for comments if you intend to build your `.finn` program - since as
+said before Shmowzow doesn't support commenting yet -, it just makes the things *more beautiful*.
+  
